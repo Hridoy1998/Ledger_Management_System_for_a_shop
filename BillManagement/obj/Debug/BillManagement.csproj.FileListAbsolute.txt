@@ -1,0 +1,13 @@
+C:\Users\Hridoy\source\repos\Project\BillManagement\bin\Debug\BillManagement.dll
+C:\Users\Hridoy\source\repos\Project\BillManagement\bin\Debug\BillManagement.pdb
+C:\Users\Hridoy\source\repos\Project\BillManagement\obj\Debug\BillManagement.csprojAssemblyReference.cache
+C:\Users\Hridoy\source\repos\Project\BillManagement\obj\Debug\BillManagement.csproj.CoreCompileInputs.cache
+C:\Users\Hridoy\source\repos\Project\BillManagement\obj\Debug\BillManagement.dll
+C:\Users\Hridoy\source\repos\Project\BillManagement\obj\Debug\BillManagement.pdb
+C:\Users\Hridoy\source\repos\Project\BillManagement\bin\Debug\CategoryManagement.dll
+C:\Users\Hridoy\source\repos\Project\BillManagement\bin\Debug\ProductManagement.dll
+C:\Users\Hridoy\source\repos\Project\BillManagement\bin\Debug\SellerManagement.dll
+C:\Users\Hridoy\source\repos\Project\BillManagement\bin\Debug\CategoryManagement.pdb
+C:\Users\Hridoy\source\repos\Project\BillManagement\bin\Debug\ProductManagement.pdb
+C:\Users\Hridoy\source\repos\Project\BillManagement\bin\Debug\SellerManagement.pdb
+C:\Users\Hridoy\source\repos\Project\BillManagement\obj\Debug\BillManagement.csproj.CopyComplete

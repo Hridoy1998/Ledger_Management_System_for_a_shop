@@ -1,0 +1,6 @@
+C:\Users\Hridoy\source\repos\Project\CategoryManagement\bin\Debug\CategoryManagement.dll
+C:\Users\Hridoy\source\repos\Project\CategoryManagement\bin\Debug\CategoryManagement.pdb
+C:\Users\Hridoy\source\repos\Project\CategoryManagement\obj\Debug\CategoryManagement.csprojAssemblyReference.cache
+C:\Users\Hridoy\source\repos\Project\CategoryManagement\obj\Debug\CategoryManagement.csproj.CoreCompileInputs.cache
+C:\Users\Hridoy\source\repos\Project\CategoryManagement\obj\Debug\CategoryManagement.dll
+C:\Users\Hridoy\source\repos\Project\CategoryManagement\obj\Debug\CategoryManagement.pdb

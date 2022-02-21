@@ -1,0 +1,6 @@
+C:\Users\Hridoy\source\repos\Project\ProductManagement\bin\Debug\ProductManagement.dll
+C:\Users\Hridoy\source\repos\Project\ProductManagement\bin\Debug\ProductManagement.pdb
+C:\Users\Hridoy\source\repos\Project\ProductManagement\obj\Debug\ProductManagement.csprojAssemblyReference.cache
+C:\Users\Hridoy\source\repos\Project\ProductManagement\obj\Debug\ProductManagement.csproj.CoreCompileInputs.cache
+C:\Users\Hridoy\source\repos\Project\ProductManagement\obj\Debug\ProductManagement.dll
+C:\Users\Hridoy\source\repos\Project\ProductManagement\obj\Debug\ProductManagement.pdb
